@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Lightweight Wheelchair",
+    "description": "Comfortable and lightweight wheelchair for daily use",
+    "price": 299.99,
+    "category": "mobility",
+    "image": "https://via.placeholder.com/300x300/3B82F6/FFFFFF?text=Wheelchair",
+    "inStock": true,
+    "rating": 4.5,
+    "reviews": 23
+  },
+  {
+    "id": 2,
+    "name": "Digital Hearing Aid",
+    "description": "Advanced digital hearing aid with noise reduction",
+    "price": 199.99,
+    "category": "communication",
+    "image": "https://via.placeholder.com/300x300/10B981/FFFFFF?text=Hearing+Aid",
+    "inStock": true,
+    "rating": 4.8,
+    "reviews": 45
+  },
+  {
+    "id": 3,
+    "name": "Adjustable Walking Cane",
+    "description": "Ergonomic walking cane with adjustable height",
+    "price": 29.99,
+    "category": "mobility",
+    "image": "https://via.placeholder.com/300x300/EF4444/FFFFFF?text=Walking+Cane",
+    "inStock": true,
+    "rating": 4.2,
+    "reviews": 12
+  }
+]
